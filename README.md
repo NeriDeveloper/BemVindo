@@ -1,5 +1,5 @@
 # BemVindo
-NeriDev Community
+<p align="center"> <h1>NeriDev Community</h1> </p>
 
 <!-- ![alt text][devneri] -->
 
